@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MapAndroid</string>
+    <string name="access_token" >pk.eyJ1IjoiZmF1emloYXJ1bmEiLCJhIjoiY2pqemJreDc0MDlhNTN2cDFtcDJnY2JncyJ9._zTYSP9g29jVtPJZ6ULb5g</string>
+    <string name="draw_marker_options_title">maps</string>
+    <string name="draw_marker_options_snippet">test</string>
+</resources>
